@@ -1,0 +1,17 @@
+Tracker Database Change Log
+4/15/2018
+
+-Logins to the database are now done automatically by checking the user's windows login
+-Users can be more easily added, removed, and edited in the admin menu
+-The Woodbridge Group logo has been added to database forms. It can be globally changed, and should
+	keep its formatting if changed.
+-The "Maxi", "Mini", and "Slitter" tables all have updated versions with better data formats
+-The "Maxi" forms and reports have been updated to work with the updated "Maxi" table
+-Audit tables have been added
+-Audit tables trigger from user logins and data deletions
+-A development tool was created in the C# language which can split numbers in a text format and remove units
+
+
+NOTE: we tried changing the forms and reports for the "Mini" and "Slitter" table, but had trouble saving them.
+    they might be corrupt either due to being updated so many times, or going through so many updates
+    of microsoft access. They seem to work currently, but are not tied to the updated "Mini" and "Slitter" tables.

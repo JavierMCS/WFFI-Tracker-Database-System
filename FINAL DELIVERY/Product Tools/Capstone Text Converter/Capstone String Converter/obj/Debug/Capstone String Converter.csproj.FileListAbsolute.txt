@@ -1,0 +1,6 @@
+C:\Users\Richard\Google Drive\sp18 capstone\Capstone String Converter\Capstone String Converter\bin\Debug\Capstone String Converter.exe.config
+C:\Users\Richard\Google Drive\sp18 capstone\Capstone String Converter\Capstone String Converter\bin\Debug\Capstone String Converter.exe
+C:\Users\Richard\Google Drive\sp18 capstone\Capstone String Converter\Capstone String Converter\bin\Debug\Capstone String Converter.pdb
+C:\Users\Richard\Google Drive\sp18 capstone\Capstone String Converter\Capstone String Converter\obj\Debug\Capstone String Converter.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Google Drive\sp18 capstone\Capstone String Converter\Capstone String Converter\obj\Debug\Capstone String Converter.exe
+C:\Users\Richard\Google Drive\sp18 capstone\Capstone String Converter\Capstone String Converter\obj\Debug\Capstone String Converter.pdb
