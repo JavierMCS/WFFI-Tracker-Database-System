@@ -1,1 +1,2 @@
 # WFFI Tracker Database System
+For this project, I was the quality assurance manager. We improved the windows login process, made audit table for logging and accountability, added triggers to the delete and login functionality to populate the audit tables, added restrictions on user input on the target width and height fields, and made it simpler to globally change the background logo. we used a agile approach to this project so that the users at WFFI would get constant updates on the project.
